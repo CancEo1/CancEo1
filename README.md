@@ -16,8 +16,8 @@ I'm a passionate game developer with a strong foundation in both **coding** and 
 
 ## Education
 
-- 🏫 **Master's Student** – University (Fine Arts, Technical Art Track)
-- 🎓 **Associate's in Game Design and Development** – Community College
+- 🏫 **Master's in Fine Arts Student** – University of Colorado 
+- 🎓 **Associate's in Game Design and Development** – Arapahoe Community College
 - 📈 **Current GPA**: 3.28
 
 ---
